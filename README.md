@@ -1,4 +1,4 @@
-# <img src="ico/logo.png" alt="" width="40" align="center"> Arges RGB
+# <img src="ico/logo.png" alt="" width="40" align="absmiddle"> Arges RGB
 
 A lightweight Windows tray app for single-zone RGB keyboards. No Razer Synapse or OpenRGB needed.
 
